@@ -10,7 +10,7 @@ And all demonstrated using the psychodelic Welsh wonder lyrics of the Super Furr
 At the end we will show how you can use this to build some basic but powerful language processing products.
 
 
-# To be able to use these notebooks you will need to have installed Anaconda and got a Python data science environment set up on your laptop. 
+## To be able to use these notebooks you will need to have installed Anaconda and got a Python data science environment set up on your laptop. 
 
 Refer to [Getting Started](https://github.com/AI-Wales/Getting-Started) for instructions on how to do this.
 
@@ -18,11 +18,14 @@ You will also need a few specific packages installed.  Install these by opening 
 
 In the command prompt that opens, type the following commands to install spaCy and its English language models:
 
-<br>
-```conda install -c conda-forge spacy```
-<br>
-```python -m spacy download en```
-<br>
+
+```
+conda install -c conda-forge spacy
+```
+
+```
+python -m spacy download en
+```
 
 See the [spaCy](https://spacy.io) documents.
 
