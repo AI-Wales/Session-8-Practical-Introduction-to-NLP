@@ -92,6 +92,7 @@ import spacy
 print("2 - spaCy Successfully Loaded\n")
 # Load English language models
 nlp_en = spacy.load('en')
+"""
 print("3 - en Language Successfully Loaded")
 nlp_en_cw_sm = spacy.load('en_core_web_sm')
 print("4 - en_core_web_sm Language Successfully Loaded")
@@ -101,6 +102,7 @@ print("5 - en_core_web_md Language Successfully Loaded")
 print("6 - en_core_web_lg Language Successfully Loaded")
 #nlp_en_vc_lg = spacy.load('en_vectors_web_lg')
 print("7 - en_vectors_web_lg Language Successfully Loaded")
+"""
 
 # Import support functions
 from spacy.lang.en.stop_words import STOP_WORDS
