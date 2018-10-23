@@ -3,9 +3,9 @@ Practical workshop on NLP pipelines with a few examples.
 
 Presented by David Pugh and Rob Bretton
 
-We will introduce the concepts of NLP and show soem basic Python code that can help process text ready for more advanced analysis. We will then introduce some libraries that can help with this, as well as start to model text in more advanced ways, We will use spaCy as a key library to demonstrate how to build custom processing pipelines and even throw in some topic and semantic modelling.
+We will introduce the concepts of NLP and show some basic Python code that can help process text ready for more advanced analysis. We will then introduce some libraries that can help with this, as well as start to model text in more advanced ways, We will use spaCy as a key library to demonstrate how to build custom processing pipelines and even throw in some topic and semantic modelling. Throughout we will hopefully see how powerful modern NLP libraries canbe - but also how difficult interpreting language can be.
 
-And all demonstrated using the psychodelic Welsh wonder lyrics of the Super Furry Animals. 
+And all demonstrated using the psychodelic Welsh wonder lyrics of the [Super Furry Animals](http://www.superfurry.com). 
 
 At the end we will show how you can use this to build some basic but powerful language processing products.
 
