@@ -39,4 +39,13 @@ We also use [textaCy](https://chartbeat-labs.github.io/textacy/). This is instal
 conda install -c conda-forge textacy
 ```
 
+### Other useful libraries we use:
+WordCloud for visually viewing common words
+
+```
+conda install -c conda-forge wordcloud
+```
+
+
+
 Pob lwc and SFAok!!!
